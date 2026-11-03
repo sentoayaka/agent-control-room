@@ -1,0 +1,23 @@
+# Runtime registry: may contain private paths and thread IDs
+state.json
+resources.json
+
+# Local state directories
+.agent-control-room/
+agent-control-room/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+
+# Local logs and screenshots
+*.log
+*.png
+*.jpg
+*.jpeg

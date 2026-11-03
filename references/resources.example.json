@@ -1,0 +1,12 @@
+{
+  "probes": [
+    {
+      "id": "gpu-box",
+      "host": "gpu-box",
+      "type": "ssh-nvidia-smi",
+      "target": "gpu-box",
+      "enabled": true,
+      "timeout_seconds": 4
+    }
+  ]
+}

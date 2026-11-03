@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Control Room"
+  short_description: "Run several Codex tasks from one control thread"
+  default_prompt: "$agent-control-room 帮我统一调度当前多个任务，汇报状态和需要我处理的事项。"
